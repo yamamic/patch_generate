@@ -1,0 +1,13 @@
+Package: hostapd-common
+Version: 2022-07-29-b704dc72-0.1
+Depends: libc
+Source: package/network/services/hostapd
+SourceName: hostapd-common
+License: BSD-3-Clause
+Section: net
+SourceDateEpoch: 1717662744
+CPE-ID: cpe:/a:w1.fi:hostapd
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: aarch64_cortex-a55_neon-vfpv4
+Installed-Size: 17199
+Description:  hostapd/wpa_supplicant common support files
